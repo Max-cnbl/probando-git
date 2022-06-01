@@ -2,14 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightblue;
 }
 
 h1{
     text-align: center;
-    font-size: x-large
+    font-size: 40px;
     margin-top: 5px;
     margin-bottom: 15px;
+    text-decoration: underline;
 
 }
 
@@ -25,6 +27,17 @@ nav ul li{
     border: 2px solid black;
     border-radius: 10px;
     background-color: cadetblue;
-   padding: 5px;
+    padding: 5px;
     
+}
+
+main{
+    margin: 10px;
+    text-align: center;
+
+}
+
+h2{
+    margin-bottom: 20px;
+    text-align: start;
 }
